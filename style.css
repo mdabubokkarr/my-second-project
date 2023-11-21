@@ -1,0 +1,168 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(203, 215, 225);
+}
+
+.cntainer{
+    background-color: rgb(116, 234, 195);
+    width: 90%;
+    margin:0 auto;
+    padding: 10px;
+}
+
+
+#image{
+    height: 150px;
+    width: 90px;
+    border: 2px solid white;
+    border-radius: 20px;
+    float: left;
+}
+
+.clear-div{
+    clear: both;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(24, 117, 117);
+}
+.links{
+    float: right;
+    
+}
+
+.title{
+    float: left;
+    padding: 10px;
+}
+
+.links p a{
+    text-decoration: none;
+    color:rgb(54, 48, 48);
+}
+
+.links p a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.sthr{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.parsonal-area.left-side{
+        float: left;
+
+
+}
+
+.parsonal-area .right-side{
+    float: right;
+    
+    
+}
+
+.ndhr{
+    border: 1px solid black;
+}
+
+
+.leftside{
+    
+    float: left;
+
+}
+
+.rightside{
+    float: right;
+    width: 290px;
+}
+
+.bamer-jinis{
+    float: left;
+}
+.daner-jinis{
+    float: right;
+}
+
+.ls{
+    float: left;
+}
+
+
+.rs{
+    float: right;
+    display: flex;
+}
+
+.rs .cent{
+    width: 350px;
+}
+
+.rs .end{
+    width: 350px;
+}
+
+
+.awoerd .lef{
+    float: left;
+}
+
+
+.awoerd .rit{
+    float: right;
+}
+
+.content ul li a{
+    text-decoration: none;
+    color:rgb(54, 48, 48);
+}
+
+
+.content ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.content ul li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content{
+    background-color: gray;
+    width: 100%;
+}
